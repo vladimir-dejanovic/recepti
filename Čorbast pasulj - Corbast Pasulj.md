@@ -1,11 +1,12 @@
 # Čorbast pasulj / Corbast Pasulj
 
+## Sastojci
 - pasulj  200-300 grama
 - luk 
 - sargarepa
 - meso
 
-
+## Priprema
 
 - prvo potopis pasulj uvece da odstoji do sutradan ujutru
 - pasulj nema potrebe da se dugo kuva u toj vodi kad provri i kuva se jedno 5 min, ocedis, bacis tu vodu i stavis ga u serpu u koju ti se vec kuva luk i sargarepa
