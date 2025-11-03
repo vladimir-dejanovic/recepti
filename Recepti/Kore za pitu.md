@@ -1,3 +1,5 @@
+# Kore za Pitu
+
 ## Potrebno
 - 500g brasna (tip 400 ili 500 meko)
 - 280g vode
