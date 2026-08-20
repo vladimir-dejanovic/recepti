@@ -1,4 +1,4 @@
-# Com Ga Rau Tom - Vietnamski Batak sa Nanom i Medom - Chicken drumstick with mint and honey
+# Com Ga Rau Tom - Vijetnamski Batak sa Nanom i Medom - Chicken drumstick with mint and honey
 
 ## Sastojci
 
